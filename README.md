@@ -10,7 +10,7 @@
 ### Analysis of Outcomes Based on Launch Date
    -For this deliverable, I started with the "Kickstarter" sheet. I converted the "Date Created Conversion" Column to a year using the Year() function. Then I created a pivot table in a new sheet that we named "Theater Outcomes by Launch Date." I then filtered the data based on the columns labeled "Parent Category" and "Years." I populated the Columns field with "outcomes," Rows with "Date Created Conversion," and Values with outcomes again. I had to remove years and quarters from the rows field, as that is sometimes autopopulated when a date is put into a pivot field.
    -Next, I filtered the columns to only shwo successful, failed, and canceled kickstarters. I further filtered the data by setting the Parent Category to "theater," which then will only show theater kickstarters in the table. I then sorted the column labels in ascending order so that successful kickstarters were shown first. With this final pivot table, I created a line graph. On the x-axis are months, and the y-axis has the outcome of the kickstarters. I then added a title to the graph, and we now have a great visual representation of successful, failed, and canceled theater kickstarters based on the month they were launched (see below): 
-   (kickstarter-analysis/Resources/Theater_Outcomes_vs_Launch.png) 
+   [Theater Outcome vs. Launch](kickstarter-analysis/Resources/Theater_Outcomes_vs_Launch.png) 
 
 ### Analysis of Outcomes Based on Goals
 
