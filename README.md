@@ -38,8 +38,18 @@
 
 - What can you conclude about the Outcomes based on Goals?
 
-   1) 
+   On average, plays that set kickstarter goals of more than $20,000 were more likely to fail than succeed. For the most successful kickstarter, my analysis would suggest that you should set your fundraising goal at $5,000 or less.
 
 - What are some limitations of this dataset?
 
+   It is hard to tell why successful kickstarters were successful, and why failed ideas were failures. For instance, if we wanted to explore the non-quantitative reasons for the outcome of each kickstarterin the subcategory "plays", we would need more qualitative information, reviews from critics, a list of popular actors and other cast members, theme/genre, and more to get an accurate idea of the "why."
+
+   Another limitation is the scope of the geographic location. Sure, we know that some plays are in the US, GB, etc., but we all know that a touring play throughout all of California would be very different than a one-time show in Cleveland, Ohio.
+
 - What are some other possible tables and/or graphs that we could create?
+
+   We could sort the data differently for some of our existing tables (for example, sort by television instead of Theater for deliverable 1) and make many more descriptive charts, but those wouldn't be helpful for Louise.
+   
+   It would be interesting to continue making pivot tables comparing the outcome of a kickstarter to other parameters, like length of time that a kickstarter was active.
+   
+   Graphs comparing the outcomes of a category or sub-cateogry in different countries could help us understand what different populations like to give their money to across the globe.
